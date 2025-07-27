@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I’m Jahnavi.
 
 <!--
 **jahnavipurohit/jahnavipurohit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Pursuing BS in Data Science from IIT Madras and BCA from MSU Baroda.  
+Passionate about data science, coding, and building real-world projects.  
+
+📂 Sharing my IIT Madras projects & MSU lab works here - 
+explore my journey through code and data.  
